@@ -1,0 +1,6 @@
+0 clothes
+1 cousmetic
+2 electronics 
+3 furniture
+4 foods
+5 tools
